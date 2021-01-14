@@ -9,3 +9,5 @@ spring:
     url: "jdbc:postgresql://localhost:5432/sbtest"
     username: postgres
     password: dheyys!!Z34
+testmessage:
+ this is a test message from the config server
